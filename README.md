@@ -23,11 +23,12 @@ Começando
 Pré-requisitos
 Um navegador moderno
 Servidor local para servir os arquivos HTML (opcional, mas recomendado)
+
 Instalação
 
 Clone o repositório:
-git clone https://github.com/your-username/certificate-generator.git
-cd certificate-generator
+git clone (https://github.com/befujarra/certificateGen)
+
 
 
 Abra a pasta do projeto e verifique se você tem os seguintes arquivos:
@@ -36,7 +37,7 @@ index.html
 css/styles.css
 js/scripts.js
 images/certificado.png
-Abra index.htmlno seu navegador para usar o aplicativo.
+Abra index.html no seu navegador para usar o aplicativo.
 
 Uso
 Registrar uma pessoa:
